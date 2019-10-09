@@ -36,6 +36,8 @@ if usernameInput =="fruit" and passwordInput =="shop":
         print("total price :",total,"THB")
     else:
         print("Please try again")
+else:
+    print("Please try again")
 print("-------------------")
 print("Thank you")
 
